@@ -7,40 +7,51 @@ This software simulation included:
 - Trajectory Planning
 - Differential Kinematics
 # Demo
-https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/46ce01e3-7584-461e-8430-51c836344d1f
+
+
+https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/77243ecb-84d9-4ebe-b794-8069e7684d78
+
+
 
 # Use
 Run GUIDE.m by Matlab software
 
-# Calculation
-**The knowledge used in this project can be found in this book [1_Robotic_Modelling Planning and Control.pdf](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/files/12225425/1_Robotic_Modelling.Planning.and.Control.pdf)
+## Calculation
+**The knowledge used in this project can be found in this book [1_Robotic_Modelling Planning and Control.pdf](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/files/12225571/1_Robotic_Modelling.Planning.and.Control.pdf)
+
 **
 
-**1. Direct Kinematics**
+# 1. Direct Kinematics
 - Defines Frame
 
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/9fa2952a-1c02-4001-a0dd-7a2d4a2b7f5d)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/2a91595d-21b6-4983-a508-81342ac3f13c)
+
 - Denavit-Hartenberg table of parameters
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/3b7ec764-937b-488c-9297-6c75cb630346)
+
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/8281b247-167e-42e5-9a53-be4093bbc25e)
+
 - Transformation matrix
 
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/946b104a-7399-48d3-8284-dc5a808e13d2)
-
-**2. Inverse Kinematics**
-
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/b9b06eaf-77d8-49e0-ae28-47fc235214c3)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/00d20f76-7be5-4bac-906f-e3fa6d8b84c6)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/bbdc7e8f-6fde-4071-8441-245dbef9407e)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/ba00a477-b0b2-40d0-a99a-6d919a0fe542)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/0ea308df-8a09-432b-87e3-d88a6f002c4a)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/33bccb7b-dd0f-4bca-8930-3b54aab7ff1a)
 
 
+# 2. Inverse Kinematics
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/4cefe7c9-b283-4ecb-b91e-e866b12a0527)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/4cb0a05e-a0b2-4725-bad9-3485be4290b0)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/ed9c3a98-c758-4116-817a-0bed95f84ebf)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/b14bdf7d-9341-451c-8a40-6d773a4dfae1)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/9fa75705-7443-4a1b-b87d-b89ec50dee80)
 
 
 
-**3. Differential Kinematics and Jacobian Matrix**
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/a7cea70d-ee77-4089-9b3a-dbb3f71b1e9f)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/8a72b4f4-8dd7-4e0e-b065-54755950b75c)
-![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/eaab251d-b32f-4242-8103-62e800b836a7)
+
+
+# 3. Differential Kinematics and Jacobian Matrix
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/f2ebc8a9-a53b-4e83-9150-80731e6fe9fc)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/495bcca2-d42b-497b-bb72-167c2a61274e)
+![image](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/93426264/4542fa2c-9669-4f67-9bd8-e4e7d5968da8)
+
+
+
 
 
