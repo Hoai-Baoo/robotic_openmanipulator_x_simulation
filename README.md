@@ -16,10 +16,8 @@ https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/assets/9342626
 # Use
 Run GUIDE.m by Matlab software
 
-## Calculation
-**The knowledge used in this project can be found in this book [1_Robotic_Modelling Planning and Control.pdf](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/files/12225571/1_Robotic_Modelling.Planning.and.Control.pdf)
-
-**
+# Calculation
+**The knowledge used in this project can be found in this book [1_Robotic_Modelling Planning and Control.pdf](https://github.com/Hoai-Baoo/robotic_openmanipulator_x_simulation/files/12225571/1_Robotic_Modelling.Planning.and.Control.pdf)**
 
 # 1. Direct Kinematics
 - Defines Frame
